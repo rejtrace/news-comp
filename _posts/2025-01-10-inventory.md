@@ -1,3 +1,8 @@
+---
+layout: post
+title: Inventory
+---
+
 # Inventory System Item Classes
 ## Item Types:
 ### Resources

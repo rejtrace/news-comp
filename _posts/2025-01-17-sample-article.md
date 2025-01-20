@@ -46,7 +46,7 @@ The article "Brandenburger Alleen: In der Toskana Deutschlands sterben immer meh
 You can read the article here: [Brandenburger Alleen: In der Toskana Deutschlands sterben immer mehr Straßenbäume](https://www.berliner-zeitung.de/mensch-metropole/brandenburger-alleen-immer-mehr-strassenbaeume-sterben-aus-li.2288534)
 
 ---
-## [Brandenburger Alleen: In der Toskana Deutschlands sterben immer mehr Straßenbäume](https://www.berliner-zeitung.de/mensch-metropole/brandenburger-alleen-immer-mehr-strassenbaeume-sterben-aus-li.2288534)
+### [Brandenburger Alleen: In der Toskana Deutschlands sterben immer mehr Straßenbäume](https://www.berliner-zeitung.de/mensch-metropole/brandenburger-alleen-immer-mehr-strassenbaeume-sterben-aus-li.2288534)
 _published by the Berliner Zeitung_
 
 501 - Environmental Protection: Positive: 84.30  
@@ -54,3 +54,10 @@ _published by the Berliner Zeitung_
 601 - National Way of Life: Positive: 0.28
 
 ---
+#### [Brandenburger Alleen: In der Toskana Deutschlands sterben immer mehr Straßenbäume](https://www.berliner-zeitung.de/mensch-metropole/brandenburger-alleen-immer-mehr-strassenbaeume-sterben-aus-li.2288534)
+_published by the Berliner Zeitung_
+
+Predicted Sentiments:  
+501 - Environmental Protection: Positive: 84.30  
+000 - Undefined: 10.97  
+601 - National Way of Life: Positive: 0.28

@@ -66,3 +66,11 @@ Erstmal machen wir die nicht als Items, sondern als freischaltbare Rezepte am Up
 
 ## To Do
 - [ ] GroundItem should set the sprite of its parent to the sprite of its item
+
+
+
+| Season         | Episode | out of |
+| -------------- | ------- | ------ |
+| 1              | 8       | 12     |
+| OVA / Specials | 0       | 6      |
+

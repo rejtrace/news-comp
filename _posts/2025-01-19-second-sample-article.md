@@ -32,3 +32,21 @@ That’s it!
 This is the full section. Click the heading to collapse/expand.
 
 </details>
+
+<details>
+  <summary><h2>The Middle</h2></summary>
+
+<h2>Continuation</h2>
+
+Going along...
+
+</details>
+
+<details>
+  <summary><h2 style="display: inline;">The End</h2></summary>
+
+<h2>Final Conclusion</h2>
+
+That’s it!
+
+</details>

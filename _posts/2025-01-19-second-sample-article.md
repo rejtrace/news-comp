@@ -9,10 +9,10 @@ Jump to:
 - [How it Works](#how-it-works)
 - [Conclusion](#conclusion)
 
-# Introduction
+## Introduction
 This is the introduction section.
 
-## How it Works
+### How it Works
 Here’s how it works.
 
 Rules for GitHub Markdown Anchor Links:
@@ -21,11 +21,12 @@ Rules for GitHub Markdown Anchor Links:
 - Remove special characters (except -).
 - Works with #, ##, ###, etc.
 
-### Conclusion
+#### Conclusion
 That’s it!
 
 <details>
-  <summary>Collapsible Section</summary>
+  <summary><h2>Collapsible Section</h2></summary>
+
 
 ## Collapsible Section
 This is the full section. Click the heading to collapse/expand.
